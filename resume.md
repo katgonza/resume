@@ -7,7 +7,7 @@ Golden, CO
 
 [kgonzalez@mines.edu](mailto:kgonzalez@mines.edu)
 
-![headshot image](vangaurdheadshot.jpg){:height="36px" width="36px"}
+![headshot image](vangaurdheadshot.jpg)
 
 ## Education
 ### B.S. in Geophysical Engineering, Colorado School of Mines
