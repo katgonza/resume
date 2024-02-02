@@ -5,9 +5,9 @@ Second-year goephysical engineering student at Colorado School of Mines.
 
 Golden, CO
 
-[kgonzalez@mines.edu](kgonzalez@mines.edu)
+[kgonzalez@mines.edu](mailto:kgonzalez@mines.edu)
 
-:w![headshot image]("C:\Users\kggin\OneDrive\Pictures\vangaurdheadshot.jpg")
+![headshot image](vangaurdheadshot.jpg)
 
 ## Education
 ### B.S. in Geophysical Engineering, Colorado School of Mines
@@ -16,12 +16,13 @@ Golden, CO
 - John C. Hollister Scholarship in Geophysics
 
 ## Experience
-- 'Female Cabin Lead and Program Support', YMCA Camp Shady Brook
-- 'HR Student Assistant', Mines Human Resources
+- **Female Cabin Lead and Program Support**, YMCA Camp Shady Brook
+- **HR Student Assistant**, Mines Human Resources
 
 ## Skills
-- Python, C++, 
-
+- Python
+- C++
+- Oral and written communication 
 
 ## Projects and Coursework
 - Geophysical Data Analysis (GPGN268)
