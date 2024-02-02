@@ -7,7 +7,16 @@ Golden, CO
 
 [kgonzalez@mines.edu](mailto:kgonzalez@mines.edu)
 
-![headshot image](vangaurdheadshot.jpg)
+![headshot image](vangaurdheadshot.jpg)# **Katie Gonzalez**
+---
+
+Second-year goephysical engineering student at Colorado School of Mines.
+
+Golden, CO
+
+[kgonzalez@mines.edu](mailto:kgonzalez@mines.edu)
+
+![headshot image](vangaurdheadshot.jpg){width=20%}
 
 ## Education
 ### B.S. in Geophysical Engineering, Colorado School of Mines
