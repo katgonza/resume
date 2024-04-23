@@ -20,6 +20,7 @@ Golden, CO
 - **HR Student Assistant**, Mines Human Resources
 
 ## Skills
+- Version Control with Git and GitHub
 - Python
 - C++
 - Oral and written communication 
