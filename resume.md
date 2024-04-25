@@ -6,7 +6,7 @@ Golden, CO
 
 **E-mail**: [kgonzalez@mines.edu](mailto:kgonzalez@mines.edu)
 
-![headshot image](IMG_3276.jpg)
+![headshot image](IMG_3276.jpg = 250x250)
 
 ## Skills
 ### Technical:
