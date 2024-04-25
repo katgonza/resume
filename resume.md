@@ -1,9 +1,9 @@
 # **Katie Gonzalez**
 
-<img style="float: right;" src="IMG_3276.jpg" width="100" height="100">
+<div style="text-align: right"><img src="IMG_3276.jpg" width="100" height="100">
 
 Second-year geophysical engineering student at Colorado School of Mines. <br>
-**Golden, Colorado**
+**Golden, Colorado** <br>
 **E-mail**: [kgonzalez@mines.edu](mailto:kgonzalez@mines.edu)
 
 ## Skills
