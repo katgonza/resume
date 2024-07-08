@@ -1,4 +1,4 @@
-# **Katie Gonzalez**
+# **Kathleen (Katie) Gonzalez**
 
 <div style="text-align: right"><img src="IMG_3276.jpg" width="100" height="100">
 
@@ -8,21 +8,20 @@ Second-year geophysical engineering student at Colorado School of Mines. <br>
 
 ## Skills
 ### Technical:
-* **Programming**: Python, C++
+* **Programming**: Python, C++, Microsoft PowerFx
 * **Version Control**: Git, GitHub, GitBash
 * **Operating Systems**: Windows, macOS, RPi
 * **Electronic**: Raspberry Pi, Arduino Uno 3
 ### Analytical:
-* **Data Analysis**: Pandas, FiPy, NumPy, Excel
-* **Data Visualization**: Matplotlib, Seaborn
+* **Data Analysis**: Pandas, FiPy, NumPy, Excel, Power
+* **Data Visualization**: Matplotlib, Seaborn, Bentley ContextCapture
 * **Machine Learning**: Scikit-Learn, TensorFlow
-## Projects:
-* **Team Collaboration**: Microsoft Teams, Slack, Discord
 ## Communication & Soft Skills
 * **Written Communication**: Documentation, Technical Writing
 * **Verbal Communication**: Public Speaking, Presentations
 * **Teamwork & Collaboration**: Team Building, Conflict Management
 * **Problem-Solving**: Critical Thinking, Troubleshooting
+* **Team Collaboration**: Microsoft Teams, Slack, Discord
 
 ## Education
 ### B.sc. in Geophysical Engineering, Colorado School of Mines - 2026
@@ -40,6 +39,10 @@ Second-year geophysical engineering student at Colorado School of Mines. <br>
 * **Design I (EDNS151)**: Mobile, large volume water reservoir pack with filtration system designed for use in remote communities. 
 
 ## Experience
+* **Transportation Intern**, Stantec Consulting
+  - Created and standardized initial process of a tunnel photogrammetry & AR technology project for infrastructure inspection teams.
+  - Streamlined the analysis and organization of fleet & vehicle data.
+  - Developed model-driven software applications for field work using Microsoft Power Suite.
 * **Female Cabin Lead and Program Support**, YMCA Camp Shady Brook
 * **HR Student Assistant**, Mines Human Resources
 
