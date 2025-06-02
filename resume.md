@@ -1,49 +1,50 @@
-# **Kathleen (Katie) Gonzalez**
+# Kathleen (Katie) Gonzalez
 
-<div style="text-align: right"><img src="IMG_3276.jpg" width="100" height="100">
+<img align="right" src="IMG_3276.jpg" alt="Katie Gonzalez" width="100" height="100">
 
-Second-year geophysical engineering student at Colorado School of Mines. <br>
-**Golden, Colorado** <br>
-**E-mail**: [kgonzalez@mines.edu](mailto:kgonzalez@mines.edu)
+**Geophysical Engineering Student | Colorado School of Mines, Class of 2026**  
+📍 Golden, CO | 📧 [kgonzalez@mines.edu](mailto:kgonzalez@mines.edu)
 
-## Skills
-### Technical:
-* **Programming**: Python, C++, Microsoft PowerFx
-* **Version Control**: Git, GitHub, GitBash
-* **Operating Systems**: Windows, macOS, RPi
-* **Electronic**: Raspberry Pi, Arduino Uno 3
-### Analytical:
-* **Data Analysis**: Pandas, FiPy, NumPy, Excel, Power
-* **Data Visualization**: Matplotlib, Seaborn, Bentley ContextCapture
-* **Machine Learning**: Scikit-Learn, TensorFlow
-## Communication & Soft Skills
-* **Written Communication**: Documentation, Technical Writing
-* **Verbal Communication**: Public Speaking, Presentations
-* **Teamwork & Collaboration**: Team Building, Conflict Management
-* **Problem-Solving**: Critical Thinking, Troubleshooting
-* **Team Collaboration**: Microsoft Teams, Slack, Discord
+---
 
-## Education
-### B.sc. in Geophysical Engineering, Colorado School of Mines - 2026
-* Dean's List: Fall 2023
-* Women in Science, Engineering, and Math (WiSEM) Community of Vangaurd Scholars
-* Society of Women Engineers (SWE) Florence Caldwell Scholar Finalist
-* John C. Hollister Scholarship in Geophysics
+## 🔧 Technical Skills
+**Languages:** Python, C++  
+**Tools:** Git, Excel, Matplotlib, Raspberry Pi  
+**Analysis:** Pandas, NumPy, Seaborn  
+**Platforms:** Windows, macOS  
 
-## Projects and Coursework
-* **Geophysical Data Analysis (GPGN268)**: Humpback Chub species characterization through capture history and Colorado River streamflow data.
-* **Mathematical Geophysics (GPGN229)**: Technical report on Darcy's Law in two spacial dimensions and time for porous media flow, including theoretical analysis, software simulation, and computational experiment design.
-* **Programming in C++ (CSCI200)**: Regulation and safety simulation for top-roping equipment during high-impact falls.
-* **Python Computing to Build a Sensor System (CSCI250)**: Backyard Bird Liason, an RPi-powered bird-feeder attachment for recording avian calls and visit frequency.
-* **Engineering for Social and Environmental Responsibility (EDNS315)**: Time capsule for the future of sustainable development goals.
-* **Design I (EDNS151)**: Mobile, large volume water reservoir pack with filtration system designed for use in remote communities. 
+---
 
-## Experience
-* **Transportation Intern**, Stantec Consulting
-  - Created and standardized initial process of a tunnel photogrammetry & AR technology project for infrastructure inspection teams.
-  - Streamlined the analysis and organization of fleet & vehicle data.
-  - Developed model-driven software applications for field work using Microsoft Power Suite.
-* **Female Cabin Lead and Program Support**, YMCA Camp Shady Brook
-* **HR Student Assistant**, Mines Human Resources
+## 🎓 Education
+**B.Sc. Geophysical Engineering**, Colorado School of Mines — *Expected 2026*  
+- Dean’s List (F23, SP24, F24, SP25)  
+- Hollister Scholarship in Geophysics  
+- Vanguard Scholar
 
+---
 
+## 📁 Selected Projects
+**Geophysics Field Camp:**
+Spatial variability of thermal and conductivity properties for detecting inlets in coves @ Stagecoach Reservoir.
+
+**Geohazards:**
+Avalanche hazard in high-traffic recreation areas in Colorado.
+
+**Physics of the Earth II & Applied Geophysics II [Joint]:**
+Detecting orphaned borehole wells using UAV-based methods.
+
+**Applications of Satellite Remote Sensing:**
+Understanding the Airborne Snow Observatory's role in Western U.S. water resource management.
+
+**Geophysical Data Analysis:**  
+Humpback Chub species study using streamflow & capture history data.  
+
+---
+
+## 💼 Experience
+
+**Intern – Transportation**, Stantec Consulting  
+- Developed tunnel inspection workflow with photogrammetry/AR  
+- Built field apps in Power Suite  
+
+**Cabin Lead**, YMCA Camp Shady Brook  
