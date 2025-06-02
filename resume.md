@@ -8,9 +8,9 @@
 ---
 
 ## 🔧 Technical Skills
-**Languages:** Python, C++  
-**Tools:** Git, Excel, Matplotlib, Raspberry Pi  
-**Analysis:** Pandas, NumPy, Seaborn  
+**Languages:** Python, C++, PowerFX, Markdown
+**Tools:** Git, Excel, Matplotlib, RPi, 
+**Analysis:** Pandas, NumPy, SciPy, Seaborn  
 **Platforms:** Windows, macOS  
 
 ---
@@ -24,16 +24,16 @@
 ---
 
 ## 📁 Selected Projects
-**Geophysics Field Camp:**
+**Geophysics Field Camp:** \
 Spatial variability of thermal and conductivity properties for detecting inlets in coves @ Stagecoach Reservoir.
 
-**Geohazards:**
+**Geohazards:** \
 Avalanche hazard in high-traffic recreation areas in Colorado.
 
-**Physics of the Earth II & Applied Geophysics II [Joint]:**
+**Physics of the Earth II & Applied Geophysics II [Joint]:** \
 Detecting orphaned borehole wells using UAV-based methods.
 
-**Applications of Satellite Remote Sensing:**
+**Applications of Satellite Remote Sensing:** \
 Understanding the Airborne Snow Observatory's role in Western U.S. water resource management.
 
 **Geophysical Data Analysis:**  
@@ -43,8 +43,16 @@ Humpback Chub species study using streamflow & capture history data.
 
 ## 💼 Experience
 
-**Intern – Transportation**, Stantec Consulting  
-- Developed tunnel inspection workflow with photogrammetry/AR  
+**SURF Student Researcher**, May 2025 - Present
+*Colorado School of Mines, Golden CO*
+- Participated in a comparative analysis of buoy observations and model predictions
+- Learn
+
+**Asset Management Intern**, May 2024 - December 2024
+*Stantec Consulting Inc., Denver CO*
+- Developed tunnel inspection workflow with photogrammetry/AR
+- Participated in field inspections for CDOT infrastructure
 - Built field apps in Power Suite  
 
-**Cabin Lead**, YMCA Camp Shady Brook  
+**Cabin Lead Counselor**, May 2023 - August 2023
+*YMCA Camp Shady Brook, Deckers CO*
