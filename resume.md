@@ -3,56 +3,67 @@
 <img align="right" src="IMG_3276.jpg" alt="Katie Gonzalez" width="100" height="100">
 
 **Geophysical Engineering Student | Colorado School of Mines, Class of 2026**  
-📍 Golden, CO | 📧 [kgonzalez@mines.edu](mailto:kgonzalez@mines.edu)
+Golden, CO | 📧 [kgonzalez@mines.edu](mailto:kgonzalez@mines.edu)
 
 ---
 
-## 🔧 Technical Skills
-**Languages:** Python, C++, PowerFX, Markdown
-**Tools:** Git, Excel, Matplotlib, RPi, 
+## Technical Skills
+**Languages:** Python, C++, LaTeX, PowerFX, Markdown
+**Tools:** Git, Excel, Matplotlib, RPi
 **Analysis:** Pandas, NumPy, SciPy, Seaborn  
-**Platforms:** Windows, macOS  
+**Platforms:** Windows, macOS, Linux (Debian, Ubuntu)
 
 ---
 
-## 🎓 Education
-**B.Sc. Geophysical Engineering**, Colorado School of Mines — *Expected 2026*  
-- Dean’s List (F23, SP24, F24, SP25)  
-- Hollister Scholarship in Geophysics  
-- Vanguard Scholar
+## Education
+
+### B.Sc. in Geophysical Engineering
+**Colorado School of Mines** | *Expected 2026*  
+* GPA : 3.7/4.0
+* Relevant Coursework: Geophysical Computing, Polar Cryosphere, Oceanography, Geohazards, Introduction to Data Science, Introduction to Programming in C++, Physics of the Earth I & II, Applied Geophysics I & II, Field Camp
+* Dean’s List: 4 semesters 
+* Hollister Student Award in Geophysics  
+* Vanguard Community of Scholars
 
 ---
 
-## 📁 Selected Projects
-**Geophysics Field Camp:** \
-Spatial variability of thermal and conductivity properties for detecting inlets in coves @ Stagecoach Reservoir.
+## Working Experience
 
-**Geohazards:** \
-Avalanche hazard in high-traffic recreation areas in Colorado.
+### Udergraduate Student Researcher
+**Colorado School of Mines** | *May 2025 - Present*
 
-**Physics of the Earth II & Applied Geophysics II [Joint]:** \
-Detecting orphaned borehole wells using UAV-based methods.
+* Evaluating the performance of a global coupled ocean-atmosphere circulation model 
+* Use Python computing to handle and process netCDF datasets
+* Leverage statistics and spectral analysis to compare seasonality of winds in the California Current System region
+* Presented research and findings at academic symposium
 
-**Applications of Satellite Remote Sensing:** \
-Understanding the Airborne Snow Observatory's role in Western U.S. water resource management.
+### Asset Management Intern
+**Stantec Consulting Inc.** | *May 2024 - August 2024*
 
-**Geophysical Data Analysis:**  
-Humpback Chub species study using streamflow & capture history data.  
+* Researched and proposed the use of a photogrammetry system for improved efficiency in large-scale tunnel inspection projects
+* Worked in a team of inspectors to perform major biannual inspections of CDOT infrastructure
+* Built PowerApps for field equipment and vehicle asset management 
+
+### Cabin Lead Counselor
+**YMCA Camp Shady Brook** | *May 2023 - August 2023*
+* Practiced leadership and problem-solving to ensure the healt and safety at overnight summer camp
+* Worked with other counselors to provide the best backcountry and frontcountry experience for campers
+* Supported specialized programs requiring additional medical training and/or sensitivity
 
 ---
 
-## 💼 Experience
+## Projects
+### Geophysics Field Camp:
+* Spatial variability of thermal and conductivity properties for detecting inlets in coves at Stagecoach Reservoir.
 
-**SURF Student Researcher**, May 2025 - Present
-*Colorado School of Mines, Golden CO*
-- Participated in a comparative analysis of buoy observations and model predictions
-- Learn
+### Geohazards: 
+* Avalanche hazard in high-traffic recreation areas in Colorado.
 
-**Asset Management Intern**, May 2024 - December 2024
-*Stantec Consulting Inc., Denver CO*
-- Developed tunnel inspection workflow with photogrammetry/AR
-- Participated in field inspections for CDOT infrastructure
-- Built field apps in Power Suite  
+### Physics of the Earth II & Applied Geophysics II [Joint]: 
+* Detecting orphaned borehole wells using UAV-based methods.
 
-**Cabin Lead Counselor**, May 2023 - August 2023
-*YMCA Camp Shady Brook, Deckers CO*
+### Applications of Satellite Remote Sensing:
+* Understanding the Airborne Snow Observatory's role in Western U.S. water resource management.
+
+### Geophysical Data Analysis:  
+* Humpback Chub species study using streamflow & capture history data.  
