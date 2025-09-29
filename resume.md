@@ -1,9 +1,10 @@
-# Kathleen (Katie) Gonzalez
+# Katie G. Gonzalez
 
 <img align="right" src="IMG_7782.jpg" alt="Katie Gonzalez" width="100">
 
-**Geophysical Engineering Student | Colorado School of Mines, Class of 2026**  
-Golden, CO | 📧 [kgonzalez@mines.edu](mailto:kgonzalez@mines.edu)
+### Geophysical Engineering Student, Class of 2026
+**Colorado School of Mines** | *Golden, CO* 
+[LinkedIn](https://www.linkedin.com/in/katie-gonzalez-109473217/) | [kgonzalez@mines.edu](mailto:kgonzalez@mines.edu)
 
 ---
 
@@ -29,7 +30,7 @@ Golden, CO | 📧 [kgonzalez@mines.edu](mailto:kgonzalez@mines.edu)
 
 ## Working Experience
 
-### Udergraduate Student Researcher
+### Undergraduate Student Researcher
 **Colorado School of Mines** | *May 2025 - Present*
 
 * Evaluating the performance of a global coupled ocean-atmosphere circulation model 
