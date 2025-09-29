@@ -1,6 +1,6 @@
 # Kathleen (Katie) Gonzalez
 
-<img align="right" src="IMG_3276.jpg" alt="Katie Gonzalez" width="100" height="100">
+<img align="right" src="IMG_7782.jpg" alt="Katie Gonzalez" width="100">
 
 **Geophysical Engineering Student | Colorado School of Mines, Class of 2026**  
 Golden, CO | 📧 [kgonzalez@mines.edu](mailto:kgonzalez@mines.edu)
@@ -8,9 +8,9 @@ Golden, CO | 📧 [kgonzalez@mines.edu](mailto:kgonzalez@mines.edu)
 ---
 
 ## Technical Skills
-**Languages:** Python, C++, LaTeX, PowerFX, Markdown
-**Tools:** Git, Excel, Matplotlib, RPi
-**Analysis:** Pandas, NumPy, SciPy, Seaborn  
+**Languages:** Python, C++, LaTeX, PowerFX, Markdown \
+**Tools:** Git, Excel, Matplotlib, RPi \
+**Analysis:** Pandas, NumPy, SciPy, Seaborn \
 **Platforms:** Windows, macOS, Linux (Debian, Ubuntu)
 
 ---
