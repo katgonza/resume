@@ -14,7 +14,7 @@
 **Analysis:** Pandas, NumPy, SciPy, Seaborn, Xarray \
 **Platforms:** Windows, macOS, Linux (Debian, Ubuntu) \
 **Interpersonal:** Public speaking, scientific/technical writing, conflict management, emergency response, standard operating procedures (SOPs) \
-**Other:** Adaptability, creative thinking, problem solving, idea generation, perseverance, time management \
+**Other:** Adaptability, creative thinking, problem solving, idea generation, perseverance, time management 
 
 ---
 
@@ -38,13 +38,15 @@
 * Evaluating the performance of a global coupled ocean-atmosphere circulation model 
 * Use Python to filter, download, and process large netCDF datasets of buoy data and numerical model output
 * Leverage statistics and spectral analysis to compare seasonality of winds in the California Current System region
-* Presented research and findings at academic symposium
+* Presented work at an academic symposium to carefully and concisely explain the principles of air-sea coupling and numerical modeling
+* Attended the American Geophysical Union (AGU) Fall Meeting 2025 
 
 ### Asset Management Intern
 **Stantec Consulting Inc.** | *May 2024 - August 2024*
 
 * Researched and proposed the use of a photogrammetry system for improved efficiency in large-scale tunnel inspection projects
 * Performed major biannual overnight inspections of CDOT infrastructure in the Eisenhower-Johnson tunnel
+* Performed data analysis on transportation survey data collected in and surrounding Denver metro 
 * Built PowerApps for field equipment and vehicle asset management
 
 ### Cabin Lead Counselor
@@ -55,8 +57,16 @@
 * Supported specialized programs requiring additional medical training and sensitivity
 * Maintained living spaces, common areas, historic buildings, activity grounds, campsites, and trails
 
+### Human Resources Student Assistant
+**Colorado School of Mines** | *January 2023 - May 2023*
+
+* Digitized and filed classified employee human resources documents
+* Posted labor law notices campus-wide
+
+
 ### Host
 **Chuy's Restaurants** | *September 2021 - January 2024*
+
 * Welcomed 50 to over 200 guests per shift and streamlined seating using POS system
 * Communicated with back of house to prevent delays in the kitchen or bar
 * Operated front of house retail, menu preparation, and cleanliness
@@ -87,10 +97,16 @@
 
 ## Volunteering
 
-### Mines Without Borders Education and Service Chair *April 2025 - May 2026*
+### Mines Without Borders - Education and Service Chair 
+*April 2025 - May 2026*
+Organized service and volunteering opportunities for MWB members in the greater Golden area related but limited to STEAM education, humanitarian engineering, sustainability, and international clubs. Provided supplementary training for members travelling to international projects. 
 
-### National Science Foundation Ice Core Facility Volunteer *April 2026 - May 2026*
+### National Science Foundation - Ice Core Facility Volunteer 
+*April 2026 - May 2026*
+Assisted the staff of the ICF with transporting and documenting over 100 ice cores segments as the foundation transitions to a new freezer facility.
 
-### YMCA Camp Shady Brook Halloween Camp Volunteer *October 2023, October 2024*
+### YMCA Camp Shady Brook - Halloween Camp Volunteer 
+*October 2023, October 2024*
 
-### Make it Mines Student Society of Geophysics Volunteer *January 2026*
+### Make it Mines - Student Society of Geophysics Volunteer 
+*January 2026*
